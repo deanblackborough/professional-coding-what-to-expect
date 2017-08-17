@@ -1,0 +1,14 @@
+{
+    "name": "ProfessionalCodingWhatoExpect",
+    "version": "1.0.0",
+    "description": "Thoughts from developers",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "4.0.0-beta",
+        "jquery": "^3.2.1",
+        "popper.js": "^1.11.1"
+    },
+    "main": "index.html",
+    "repository": "https://github.com/deanblackborough/professional-coding-what-to-expect",
+    "author": "Dean Blackborough"
+}
