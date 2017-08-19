@@ -1,3 +1,5 @@
+The Question
+
 Ivan asked the question below; (https://arstechnica.com/civis/viewtopic.php?p=33474885#p33474885)
 
 I graduated recently and just got a job in a big software company (red one, hates API's ;) ). I was wondering, what should I expect upon starting my life in this strange, new, corporate world. Any tips anybody wishes somebody told them when they were starting?
