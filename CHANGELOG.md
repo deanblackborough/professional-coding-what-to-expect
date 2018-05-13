@@ -2,6 +2,10 @@
 
 Full changelog for the Professional coding: what to expect website.
 
+## v1.02.0 - New Design
+
+* New design, matches http://www.transmute-coffee.com
+
 ## v1.01.0 - Navbar and footer
 
 * Added a simple Navbar and footer, links to ArsTechnica, my website and GitHub.

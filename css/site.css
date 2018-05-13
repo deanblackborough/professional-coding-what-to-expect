@@ -1,6 +1,23 @@
 div.footer {
-    background-color: #e9ecef;
-    border-top: 1px solid #000000;
     padding: 3rem 1rem;
-    color:#000000;
+    margin-top: 2rem;
+}
+
+div.jumbotron {
+    background-image: url('../images/header/moon.jpg');
+    padding-bottom: 32px;
+    box-shadow: 2px 2px #c4c4c4;
+}
+
+div.jumbotron > h1 {
+    margin-bottom: 1.5rem;
+    text-shadow: 1px 2px #777777;
+}
+
+div.jumbotron > p {
+    padding: 1rem;
+}
+
+div.card {
+    box-shadow: 2px 2px #c4c4c4;
 }
