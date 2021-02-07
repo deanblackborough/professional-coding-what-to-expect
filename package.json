@@ -4,9 +4,9 @@
     "description": "Thoughts from developers",
     "license": "MIT",
     "dependencies": {
-        "bootstrap": "4.0.0-beta",
-        "jquery": "^3.2.1",
-        "popper.js": "^1.11.1"
+        "bootstrap": "^4.6",
+        "jquery": "^3.5",
+        "popper.js": "^1.16"
     },
     "main": "index.html",
     "repository": "https://github.com/deanblackborough/professional-coding-what-to-expect",
