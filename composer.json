@@ -1,0 +1,26 @@
+{
+    "name": "deanblackborough/professional-coding-what-to-expect",
+    "description": "professional coding: what to expect?",
+    "keywords": [
+        "new developer",
+        "coding advise"
+    ],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": "^8.0",
+        "ext-json": "*"
+    },
+    "require-dev": {},
+    "autoload": {
+    },
+    "autoload-dev": {
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
